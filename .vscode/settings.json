@@ -1,0 +1,6 @@
+{
+    "wiz.showOnlyPolicyMatches": true,
+    "wiz.codePolicies.vulnerabilities": [
+        "VCS vulnerabilities policy"
+    ]
+}
